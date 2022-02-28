@@ -1,4 +1,5 @@
 <?php
+    return "ups";
 //$time1 = time(); //sec from 1970/1/01
 // $date = date_create();
 // $time3 = date_timezone_set($date,timezone_open('Europe/Riga'));
