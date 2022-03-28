@@ -39,30 +39,30 @@ class Hello extends CI_Controller {
 				"url"=>"contacts"
 			],
 			"cards" => [
-			[
-				"card_text" => "card",
-				"text-muted" =>"text"
-			],
-			[
-				"card_text" => "card",
-				"text-muted" =>"text"
-			],
-			[
-				"card_text" => "card",
-				"text-muted" =>"text"
-			],
-			[
-				"card_text" => "card",
-				"text-muted" =>"text"
-			],
-			[
-				"card_text" => "card",
-				"text-muted" =>"text"
-			],
-			[
-				"card_text" => "card",
-				"text-muted" =>"text"
-			]
+				[
+					"card_text" => "card",
+					"text-muted" =>"text"
+				],
+				[
+					"card_text" => "card",
+					"text-muted" =>"text"
+				],
+				[
+					"card_text" => "card",
+					"text-muted" =>"text"
+				],
+				[
+					"card_text" => "card",
+					"text-muted" =>"text"
+				],
+				[
+					"card_text" => "card",
+					"text-muted" =>"text"
+				],
+				[
+					"card_text" => "card",
+					"text-muted" =>"text"
+				]
 			]
 		];
 
