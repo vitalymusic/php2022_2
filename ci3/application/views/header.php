@@ -6,6 +6,8 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.88.1">
+    <script src="<?=base_url()?>assets/js/jquery-3.6.0.min.js">
+    </script>
     <title><?=$title?></title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/album/">
