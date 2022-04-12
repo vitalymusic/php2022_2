@@ -82,5 +82,10 @@ class Admin extends CI_Controller {
 			redirect(base_url('admin/index'));
 		}
 
+
+		// Статьи или новости добавить в меню Контроллер
+		
+
+
 	}
 }
